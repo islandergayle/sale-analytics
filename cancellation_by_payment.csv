@@ -1,0 +1,5 @@
+payment_method,cancellation_rate
+COD,0.19
+Card,0.0704
+GCash,0.0696
+Maya,0.0695
