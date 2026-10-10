@@ -2,7 +2,6 @@
 
 This repository contains the big data analysis, Streamlit dashboard, and AI briefing generation for the 11.11 Sale Analytics project.
 
-## Gemini AI Briefing Prompt (Part F)
 Below is the exact prompt used to send summary numbers to Google Gemini:
 
 ```text
